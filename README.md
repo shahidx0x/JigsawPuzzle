@@ -1,6 +1,6 @@
 # Jigsaw Puzzle Game
 
-
+![Jigsaw Puzzle](https://i.ibb.co/wNMRPKP/image.png)
 ## Introduction
 
 Jigsaw Puzzle is a classic game where players are tasked with reassembling an image that has been divided into numerous interlocking pieces. The challenge lies in arranging these pieces correctly to recreate the original image. With various settings to customize your gameplay experience, including rotation, shape, shuffle options, and image sources, Jigsaw Puzzle offers endless fun for players of all ages.
