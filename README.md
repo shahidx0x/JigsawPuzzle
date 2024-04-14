@@ -1,6 +1,5 @@
 # Jigsaw Puzzle Game
 
-Welcome to the Jigsaw Puzzle game repository! 
 
 ## Introduction
 
