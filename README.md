@@ -19,4 +19,16 @@ Jigsaw Puzzle is a classic game where players are tasked with reassembling an im
 
 6. **Challenge Yourself**: Test your skills by adjusting the settings and selecting different images. Experiment with various combinations to create puzzles of varying difficulty levels and enjoy the endless entertainment provided by Jigsaw Puzzle.
 
+## How to Run
 
+To run the Jigsaw Puzzle game on your local server using XAMPP, follow these steps:
+
+1. **Download and Install XAMPP**: If you haven't already, download and install XAMPP from the official website: [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html).
+
+2. **Clone the Repository**: Clone this repository to your local machine using Git or download it as a ZIP file and extract its contents.
+
+3. **Move Files to XAMPP Directory**: Move the cloned or extracted files to the `htdocs` directory inside the XAMPP installation folder.
+
+4. **Start Apache Server**: Launch the XAMPP Control Panel, and start the Apache server.
+
+5. **Access the Game**: Open your web browser and navigate to `http://localhost/jigsaw-puzzle/index.html` to access the Jigsaw Puzzle game.
