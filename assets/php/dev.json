@@ -1,0 +1,65 @@
+[
+    {
+        "folder": "Animals",
+        "files": [
+            "ad700x340.png",
+            "butterfly.jpg",
+            "camels.jpg",
+            "cat.jpg",
+            "chimpanzee.jpg",
+            "cute.jpg",
+            "duck.jpg",
+            "duck1.jpg",
+            "kittens.jpg",
+            "parrot.jpg",
+            "parrots.jpg",
+            "rooster.jpg",
+            "snail.jpg",
+            "tiger.jpg",
+            "toucan.jpg",
+            "zebra.jpg"
+        ]
+    },
+    {
+        "folder": "Colors",
+        "files": [
+            "ad700x340.png",
+            "artroom.jpg",
+            "bicycle.jpg",
+            "buttons.jpg",
+            "candles.jpg",
+            "clips.jpg",
+            "colors1.jpg",
+            "colors2.jpg",
+            "colors3.jpg",
+            "copies.jpg",
+            "fabric1.jpg",
+            "fabric2.jpg",
+            "fabric3.jpg",
+            "jars.jpg",
+            "lollypops.jpg",
+            "pencils1.jpg",
+            "pencils2.jpg",
+            "strokes.jpg",
+            "umbrella1.jpg",
+            "umbrella2.jpg"
+        ]
+    },
+    {
+        "folder": "Mixed",
+        "files": [
+            "ad700x340.png",
+            "boat.jpg",
+            "child.jpg",
+            "eggs.jpg",
+            "fruits1.jpg",
+            "fruits2.jpg",
+            "mosque.jpg",
+            "sofa.jpg",
+            "square.jpg",
+            "sushi.jpg",
+            "teapot.jpg",
+            "vertical.jpg"
+        ]
+    }
+]
